@@ -1,2 +1,2 @@
 # Datasets
-this contains data sets i've used in my files
+this contains datasets i've used in my files.
